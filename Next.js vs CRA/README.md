@@ -2,6 +2,10 @@
 
 ## Basics
 
+### Setup
+
+To set up a Next.js project, you use `npx create-next-app my-app`. This gives you a React app with **SSR** and **SSG** out of the box, meaning pages can be pre-rendered on the server or generated as static HTML.
+
 ### Routes
 
 `.js` files inside of pages directory are routes (ex: `pages/about.js` will show as `/about`). `index.js` goes to `/`.
